@@ -7,3 +7,4 @@ The HISSTA database includes spatial single-cell transcriptome data from various
 https://kbds.re.kr/hissta/
 
 
+![Graphical Abstract](images/0_graphical_abstract.png)
