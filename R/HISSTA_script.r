@@ -1,5 +1,3 @@
-#conda activate vitessce_jiwoo4
-
 # Load data
 library(Seurat)
 library(ggplot2)
