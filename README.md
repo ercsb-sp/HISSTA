@@ -1,7 +1,7 @@
 # HISSTA
 HISSTA: a Human In Situ Single-cell Transcriptome Atlas
 
-Article: [https://doi.org/10.1038/s41467-022-28803-w]
+Article: [https://doi.org/10.1038/s41467-022-28803-w] (논문 링크 수정하기)
 
 The HISSTA database includes spatial single-cell transcriptome data from various human tissues, utilizing primary techniques such as MERFISH (Vizgen), CosMx (Nanostring), and Xenium (10x) to achieve genuine single-cell resolution in situ. We support the exploration of datasets, preliminary analysis results, and interactive visualization with Vitessce.
 
