@@ -6,6 +6,8 @@ https://kbds.re.kr/hissta/
 Article: [] (논문 링크 수정하기)
 
 
+![Graphical Abstract](images/0_graphical_abstract.png)
+
 HISSTA provides several advanced tools for spatial context analyses to aid users in gaining scientific insights:
 - Cell type annotation. Three ways of cell type annotation are provided:
     1) marker-based using SCINA
@@ -17,4 +19,3 @@ HISSTA provides several advanced tools for spatial context analyses to aid users
 - Spatial niche analysis. The BuildNicheAssay function of Seurat identifies cell niches based on 30 neighborhood cells. We further show the cell type composition and niche-specific pathways.
 
 
-![Graphical Abstract](images/0_graphical_abstract.png)
