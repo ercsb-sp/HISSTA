@@ -3,8 +3,7 @@ HISSTA: a Human In Situ Single-cell Transcriptome Atlas
 
 https://kbds.re.kr/hissta/
 
-Article: [] (논문 링크 수정하기)
-
+Article: (https://academic.oup.com/bioinformatics/article/41/4/btaf142/8101493)
 
 ![Graphical Abstract](images/0_graphical_abstract.png)
 
